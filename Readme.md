@@ -2,6 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.4-green)
+![Fabric Version](https://img.shields.io/badge/Fabric-1.21.4-red)
 
 Un mod que permite controlar qué items pueden ser crafteados o usados por los jugadores.
 
@@ -24,7 +25,7 @@ Un mod que permite controlar qué items pueden ser crafteados o usados por los j
 
 ## 📦 Requisitos
 
-- Minecraft Server 1.21.4
+- Minecraft 1.21.4
 - Fabric Loader
 - Fabric API
 
